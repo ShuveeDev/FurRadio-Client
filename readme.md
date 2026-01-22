@@ -32,7 +32,7 @@
 ## 🛠 **Збірка (qmake)**
 
 ```bash
-git clone https://github.com/yourname/FurRadio-macOS-Client.git
+git clone https://github.com/ShuveeDev/FurRadio-Client.git
 cd FurRadio-macOS-Client
 
 # згенерувати Makefile
