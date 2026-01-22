@@ -12,8 +12,6 @@
 
 ## ✨ **Особливості**
 
-#Features #DesktopApp
-
 * 🎵 Відтворення **live-аудіостріму** (інтернет-радіо)
 * 🍏 **Нативний macOS-клієнт** (C++ / Qt)
 * ⚡ Швидкий старт та низьке використання ресурсів
@@ -33,7 +31,7 @@
 
 ```bash
 git clone https://github.com/ShuveeDev/FurRadio-Client.git
-cd FurRadio-macOS-Client
+cd FurRadio-Client
 
 # згенерувати Makefile
 qmake
@@ -58,6 +56,8 @@ make
 
 **Shuvee Dev 🐈‍⬛**
 
+
+##  **Old readme**
 
 MacOS Native C++ app (maybe)
 
